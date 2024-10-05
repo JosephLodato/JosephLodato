@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Joseph Lodato, a student at Syracuse University, pursuing a major in Computer Engineering with a minor in Physics. Welcome to my GitHub profile!
+I'm Joseph Lodato, a student at Syracuse University, pursuing a B.S. in Computer Engineering with a minor in Physics. Welcome to my GitHub profile!
 <!--
 ## Projects
 
